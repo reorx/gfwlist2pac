@@ -1,6 +1,8 @@
 GFWList2PAC
 ===========
 
+**Original author: @clowwindy**
+
 [![PyPI version]][PyPI]
 
 Generate fast PAC file from gfwlist. Examples: [fast mode] / [precise mode].
